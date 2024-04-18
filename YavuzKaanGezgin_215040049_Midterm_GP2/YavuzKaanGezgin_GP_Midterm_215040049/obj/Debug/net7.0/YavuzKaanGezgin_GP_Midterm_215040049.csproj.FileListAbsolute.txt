@@ -1,0 +1,14 @@
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\bin\Debug\net7.0\YavuzKaanGezgin_GP_Midterm_215040049.exe
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\bin\Debug\net7.0\YavuzKaanGezgin_GP_Midterm_215040049.deps.json
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\bin\Debug\net7.0\YavuzKaanGezgin_GP_Midterm_215040049.runtimeconfig.json
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\bin\Debug\net7.0\YavuzKaanGezgin_GP_Midterm_215040049.dll
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\bin\Debug\net7.0\YavuzKaanGezgin_GP_Midterm_215040049.pdb
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\obj\Debug\net7.0\YavuzKaanGezgin_GP_Midterm_215040049.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\obj\Debug\net7.0\YavuzKaanGezgin_GP_Midterm_215040049.AssemblyInfoInputs.cache
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\obj\Debug\net7.0\YavuzKaanGezgin_GP_Midterm_215040049.AssemblyInfo.cs
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\obj\Debug\net7.0\YavuzKaanGezgin_GP_Midterm_215040049.csproj.CoreCompileInputs.cache
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\obj\Debug\net7.0\YavuzKaanGezgin_GP_Midterm_215040049.dll
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\obj\Debug\net7.0\refint\YavuzKaanGezgin_GP_Midterm_215040049.dll
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\obj\Debug\net7.0\YavuzKaanGezgin_GP_Midterm_215040049.pdb
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\obj\Debug\net7.0\YavuzKaanGezgin_GP_Midterm_215040049.genruntimeconfig.cache
+C:\Users\ramaz\Desktop\Yeni klasör\YavuzKaanGezgin_GP_Midterm_215040049\obj\Debug\net7.0\ref\YavuzKaanGezgin_GP_Midterm_215040049.dll
